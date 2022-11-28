@@ -1,0 +1,26 @@
+body{
+    background-image: url("C:\Users\Musa\Desktop\proje5resmi.jpg");
+    display:flex; 
+    align-items:center;     
+    justify-content:center; 
+    flex-direction: column; 
+}
+
+#qtext{ 
+    color:rgb(135, 194, 228); 
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+}
+
+#qauthor{
+    color:rgb(135, 194, 228); 
+    font-weight: bold;
+    font-style:normal;
+    font-size: larger;
+}
+
+#btn{
+    background-color:rgb(135, 194, 228);
+    color:black;
+} 
