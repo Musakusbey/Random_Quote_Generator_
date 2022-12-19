@@ -1,7 +1,7 @@
 
 -P5-Random_Quote_Generator_
 
-random quote generator
+random quote generator.(english)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-rastgele alıntı üreteci
+rastgele alıntı söz projesi yaptık(Türkçe)
 
